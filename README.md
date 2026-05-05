@@ -12,13 +12,13 @@ I made a custom VVVF Invertor Controller based on STM32 microcontroller .It uses
 - ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
-| 1  | PCB and Assembly  |387 |
-| 2 | Shipping SeedStudio  |0 |
+| 1  | PCB and Assembly JLCPCB |183.15 |
+| 2 | Shipping JLCPCB  | 14.26 |
 
 
 ### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$387	 USD**
+- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$197.41	 USD**
 
 -  ## Schematic & PCB<br>
 
